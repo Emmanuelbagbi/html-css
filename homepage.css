@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.main{
+    width: 100%;
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.323);
+    border: 9px solid black;
+    background-image: url(image/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.jpg);
+    background-blend-mode: darken;
+    
+
+}
+.convert{
+    width: 70%;
+    height: 92px;
+    background-color: transparent;
+    font-size: 25px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+#von{
+    width: 90px;
+    height: 50px;
+    background-color: transparent;
+
+}
+button{
+    width: 90px;
+    height: 50px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+h1{
+    color: white;
+    height: 30px;
+}
+.edit{
+    width: 80%;
+    height: 200px;
+    font-size: 25px;
+    margin-top: 170px;
+    color: white;
+}
+input{
+    width: 400px;
+    height: 60px;
+    font-size: 16px;
+    color: white;
+    background-color: transparent;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background
+    
+    
+}
+.but{
+    width: 170px;
+    height: 60px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction:  row;
+    justify-content: center;
+    align-items: center;
+
+}
+#nav{
+    width: 70%;
+    height: 92px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 60px;
+}
+.meg{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    margin-top: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+}
+#child{
+    width: 700px;
+    height: 300px;
+    background-color: black;
+    font-size: 20px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.trench{
+    width: 500px;
+    height: 400px;
+    background-color: black;
+}
+video{
+    width: 700px;
+    height: 400px;
+}
